@@ -1,7 +1,14 @@
 <img src - align "center" 
 
-# Maya Calavan is in ITPRO2 # mangosmaya.github.io
+# Professional Summary
 >Dedicated and results-driven Mango Cultivation Specialist with over 8 years of hands-on experience managing commercial orchards. Proven track record in optimizing crop yields, implementing sustainable pest management, and mastering complex grafting techniques for premium varieties (including Tommy Atkins, Kent, and Honey/Ataulfo). Expert in modern irrigation systems, soil health optimization, and global GAP (Good Agricultural Practices) compliance to maximize export quality.
+
+# Core Competencies
+* Orchard Management: Canopy management, strategic pruning, tree spacing, and yield forecasting.
+* Propagation & Grafting: Side-veneer grafting, top-working older trees, and rootstock selection.
+* Soil & Nutrition: Soil pH balancing, fertigation setup, and organic composting.
+* Integrated Pest Management (IPM): Biological controls, safe pesticide application, and disease prevention (Anthracnose, Powdery Mildew).
+* Post-Harvest & Logistics: Cold chain management, maturity indexing, and export packaging standards.
 
 # Education & Certifications
 * Associate of Applied Science in Sustainable Agriculture | Florida Everglades College
