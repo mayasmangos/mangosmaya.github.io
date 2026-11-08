@@ -2,6 +2,8 @@
   <img src="https://github.com/user-attachments/assets/30c4cffa-ab37-4c96-9167-02583821e0ac" alt="Profile photo" width="180" />
 </div>
 
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/15c2cd00-7d30-4e43-b23c-c7507508c408" />
+
 # Professional Summary
 
 > Dedicated and results-driven Mango Cultivation Specialist with over 8 years of hands-on experience managing commercial orchards. Proven track record in optimizing crop yields, implementing sustainable pest management, and mastering complex grafting techniques for premium varieties (including Tommy Atkins, Kent, and Honey/Ataulfo). Expert in modern irrigation systems, soil health optimization, and global GAP (Good Agricultural Practices) compliance to maximize export quality.
