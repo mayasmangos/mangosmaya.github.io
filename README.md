@@ -1,8 +1,7 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/30c4cffa-ab37-4c96-9167-02583821e0ac" alt="Profile photo" width="180" />
+  <img src="https://github.com/user-attachments/assets/15c2cd00-7d30-4e43-b23c-c7507508c408" alt="Profile photo" width="180" />
 </div>
 
-<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/15c2cd00-7d30-4e43-b23c-c7507508c408" />
 
 # Professional Summary
 
