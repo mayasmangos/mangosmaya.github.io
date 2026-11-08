@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Professional CV — Mango Cultivation Specialist">
+  <title>Professional CV | Mango Cultivation Specialist</title>
+  <style>
+    :root {
+      --ink: #26332d;
+      --muted: #68756d;
+      --accent: #55745b;
+      --accent-soft: #e9efe7;
+      --paper: #fbfaf6;
+      --card: #ffffff;
+      --line: #e4e6df;
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      background: var(--paper);
+      color: var(--ink);
+      font: 16px/1.7 Georgia, "Times New Roman", serif;
+    }
+    a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset: 3px; }
+    .topbar {
+      border-bottom: 1px solid var(--line);
+      background: rgba(251,250,246,.94);
+    }
+    .nav {
+      max-width: 1080px; margin: auto; padding: 18px 28px;
+      display: flex; justify-content: space-between; align-items: center; gap: 18px;
+    }
+    .brand { font-size: 14px; letter-spacing: .16em; text-transform: uppercase; font-family: Arial, sans-serif; color: var(--muted); }
+    .nav a { font: 13px Arial, sans-serif; text-decoration: none; margin-left: 18px; }
+    .hero {
+      max-width: 1080px; margin: 54px auto 28px; padding: 0 28px;
+      display: grid; grid-template-columns: 1fr 230px; gap: 48px; align-items: center;
+    }
+    .eyebrow { color: var(--accent); font: 12px Arial, sans-serif; letter-spacing: .18em; text-transform: uppercase; }
+    h1 { font-size: clamp(36px, 6vw, 58px); line-height: 1.08; font-weight: 400; margin: 14px 0 18px; letter-spacing: -.035em; }
+    .intro { color: var(--muted); max-width: 650px; font-size: 18px; margin: 0; }
+    .portrait-wrap { justify-self: end; }
+    .portrait {
+      display: block; width: 210px; height: 220px; object-fit: cover;
+      border-radius: 4px; border: 8px solid white; box-shadow: 0 12px 34px rgba(35,48,38,.12);
+    }
+    main { max-width: 1080px; margin: 0 auto 70px; padding: 0 28px; }
+    .layout { display: grid; grid-template-columns: 1fr 1fr; gap: 22px; }
+    section {
+      background: var(--card); border: 1px solid var(--line); border-radius: 6px;
+      padding: 28px 30px; box-shadow: 0 5px 18px rgba(35,48,38,.035);
+    }
+    section.wide { grid-column: 1 / -1; }
+    h2 { margin: 0 0 18px; font-size: 23px; font-weight: 400; }
+    h2:after { content: ""; display: block; width: 42px; height: 2px; background: var(--accent); margin-top: 11px; }
+    p { margin: 0 0 12px; }
+    .summary { font-size: 17px; }
+    ul { margin: 0; padding-left: 20px; }
+    li { padding-left: 4px; margin: 0 0 9px; }
+    .role { font-weight: bold; font-size: 17px; margin-bottom: 2px; }
+    .date { color: var(--muted); font: 13px Arial, sans-serif; margin-bottom: 16px; }
+    footer {
+      border-top: 1px solid var(--line); text-align: center; padding: 24px;
+      color: var(--muted); font: 12px Arial, sans-serif; letter-spacing: .04em;
+    }
+    @media (max-width: 700px) {
+      .nav { padding: 15px 20px; }
+      .nav a { margin-left: 10px; }
+      .hero { margin-top: 34px; grid-template-columns: 1fr; gap: 24px; padding: 0 20px; }
+      .portrait-wrap { justify-self: start; grid-row: 1; }
+      .portrait { width: 150px; height: 158px; }
+      main { padding: 0 20px; }
+      .layout { grid-template-columns: 1fr; }
+      section.wide { grid-column: auto; }
+      section { padding: 23px; }
+    }
+  </style>
+</head>
+<body>
+  <header class="topbar">
+    <nav class="nav" aria-label="Main navigation">
+      <div class="brand">Professional CV</div>
+      <div>
+        <a href="#experience">Experience</a>
+        <a href="#education">Education</a>
+        <a href="#contact">Contact</a>
+      </div>
+    </nav>
+  </header>
+
+  <div class="hero">
+    <div>
+      <div class="eyebrow">Agriculture · Orchard Management</div>
+      <h1>Mango Cultivation<br>Specialist</h1>
+      <p class="intro">Dedicated and results-driven professional with over 8 years of hands-on experience managing commercial orchards.</p>
+    </div>
+    <div class="portrait-wrap">
+      <img class="portrait" src="https://github.com/user-attachments/assets/30c4cffa-ab37-4c96-9167-02583821e0ac" alt="Profile photo">
+    </div>
+  </div>
+
+  <main>
+    <div class="layout">
+      <section class="wide" id="summary">
+        <h2>Professional Summary</h2>
+        <p class="summary">Dedicated and results-driven Mango Cultivation Specialist with over 8 years of hands-on experience managing commercial orchards. Proven track record in optimizing crop yields, implementing sustainable pest management, and mastering complex grafting techniques for premium varieties (including Tommy Atkins, Kent, and Honey/Ataulfo). Expert in modern irrigation systems, soil health optimization, and global GAP (Good Agricultural Practices) compliance to maximize export quality.</p>
+      </section>
+
+      <section>
+        <h2>Core Competencies</h2>
+        <ul>
+          <li><strong>Orchard Management:</strong> Canopy management, strategic pruning, tree spacing, and yield forecasting.</li>
+          <li><strong>Propagation &amp; Grafting:</strong> Side-veneer grafting, top-working older trees, and rootstock selection.</li>
+          <li><strong>Soil &amp; Nutrition:</strong> Soil pH balancing, fertigation setup, and organic composting.</li>
+          <li><strong>Integrated Pest Management (IPM):</strong> Biological controls, safe pesticide application, and disease prevention (Anthracnose, Powdery Mildew).</li>
+          <li><strong>Post-Harvest &amp; Logistics:</strong> Cold chain management, maturity indexing, and export packaging standards.</li>
+        </ul>
+      </section>
+
+      <section id="education">
+        <h2>Education &amp; Certifications</h2>
+        <ul>
+          <li>Associate of Applied Science in Sustainable Agriculture | Florida Everglades College</li>
+          <li>Certified Crop Adviser (CCA) | American Society of Agronomy</li>
+          <li>Commercial Pesticide Applicator License | State Agricultural Department</li>
+        </ul>
+      </section>
+
+      <section class="wide" id="experience">
+        <h2>Professional Experience</h2>
+        <p class="role">Lead Orchard Manager | Golden Valley Tropicals | Vista, CA</p>
+        <p class="date">March 2021 – Present</p>
+        <ul>
+          <li>Oversee the daily operations of a 120-acre commercial mango orchard, supervising a seasonal team of up to 25 farmworkers.</li>
+          <li>Boosted annual marketable yield by 18% over three seasons by redesigning the micro-sprinkler irrigation system and optimizing the nitrogen-potassium fertilization schedule.</li>
+          <li>Successfully transitioned 40 acres to certified organic production, expanding market reach into premium organic grocery chains.</li>
+          <li>Managed the harvest schedule, implementing strict brix-level (sugar content) testing to ensure fruit was picked at peak maturity for transport.</li>
+        </ul>
+      </section>
+
+      <section class="wide" id="contact">
+        <h2>Contact Info</h2>
+        <p><a href="https://mayasmangos.github.io/">Web Page</a></p>
+      </section>
+    </div>
+  </main>
+
+  <footer>Personal CV · Hosted with GitHub Pages</footer>
+</body>
+</html>
