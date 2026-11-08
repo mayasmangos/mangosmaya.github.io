@@ -1,3 +1,7 @@
+# Maya Calavan
+
+**Mango Cultivation Specialist**
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/15c2cd00-7d30-4e43-b23c-c7507508c408" alt="Profile photo" width="180" />
 </div>
@@ -40,4 +44,4 @@ March 2021 – Present
 
 # Contact Information
 
-* [Website](https://mayasmangos.github.io/)
+* [Website](https://mayasmangos.github.io/mangosmaya.github.io/)
