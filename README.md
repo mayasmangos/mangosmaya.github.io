@@ -31,6 +31,14 @@ March 2021 – Present
 * Successfully transitioned 40 acres to certified organic production, expanding market reach into premium organic grocery chains.
 * Managed the harvest schedule, implementing strict brix-level (sugar content) testing to ensure fruit was picked at peak maturity for transport.
 
+# Interests
+
+* Sustainable Agriculture & Organic Farming
+* Tropical Fruit Cultivation & Mango Varieties
+* Environmental Conservation & Soil Health
+* Innovative Irrigation & Farming Technology
+* Farm-to-Table Practices & Agricultural Entrepreneurship
+
 # Contact Info
 
 * [Web Page](https://mayasmangos.github.io/)
