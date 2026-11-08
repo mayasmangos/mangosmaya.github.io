@@ -2,10 +2,9 @@
   <img src="https://github.com/user-attachments/assets/15c2cd00-7d30-4e43-b23c-c7507508c408" alt="Profile photo" width="180" />
 </div>
 
-
 # Professional Summary
 
-> Dedicated and results-driven Mango Cultivation Specialist with over 8 years of hands-on experience managing commercial orchards. Proven track record in optimizing crop yields, implementing sustainable pest management, and mastering complex grafting techniques for premium varieties (including Tommy Atkins, Kent, and Honey/Ataulfo). Expert in modern irrigation systems, soil health optimization, and global GAP (Good Agricultural Practices) compliance to maximize export quality.
+> Dedicated and results-driven Mango Cultivation Specialist with over 8 years of hands-on experience managing commercial orchards. Proven track record in optimizing crop yields, implementing sustainable pest management, and mastering complex grafting techniques for premium varieties (including Tommy Atkins, Kent, and Honey/Ataulfo). Expert in modern irrigation systems, soil health optimization, and GlobalG.A.P. (Good Agricultural Practices) compliance to maximize export quality.
 
 # Core Competencies
 
@@ -15,13 +14,7 @@
 * Integrated Pest Management (IPM): Biological controls, safe pesticide application, and disease prevention (Anthracnose, Powdery Mildew).
 * Post-Harvest & Logistics: Cold chain management, maturity indexing, and export packaging standards.
 
-# Education & Certifications
-
-* Associate of Applied Science in Sustainable Agriculture | Florida Everglades College
-* Certified Crop Adviser (CCA) | American Society of Agronomy
-* Commercial Pesticide Applicator License | State Agricultural Department
-
-# Personal experience
+# Professional Experience
 
 **Lead Orchard Manager | Golden Valley Tropicals | Vista, CA**  
 March 2021 – Present
@@ -31,6 +24,12 @@ March 2021 – Present
 * Successfully transitioned 40 acres to certified organic production, expanding market reach into premium organic grocery chains.
 * Managed the harvest schedule, implementing strict brix-level (sugar content) testing to ensure fruit was picked at peak maturity for transport.
 
+# Education & Certifications
+
+* Associate of Applied Science in Sustainable Agriculture | Florida Everglades College
+* Certified Crop Adviser (CCA) | American Society of Agronomy
+* Commercial Pesticide Applicator License | State Agricultural Department
+
 # Interests
 
 * Sustainable Agriculture & Organic Farming
@@ -39,6 +38,6 @@ March 2021 – Present
 * Innovative Irrigation & Farming Technology
 * Farm-to-Table Practices & Agricultural Entrepreneurship
 
-# Contact Info
+# Contact Information
 
-* [Web Page](https://mayasmangos.github.io/)
+* [Website](https://mayasmangos.github.io/)
